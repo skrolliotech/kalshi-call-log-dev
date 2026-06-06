@@ -1,0 +1,12 @@
+{
+  "skrollId": "019e9ab4-4cbe-76bf-a16c-c68e3c38a8f4",
+  "kalshiTicker": "KXF1POLE-MONGP26-LEC",
+  "kalshiQuestion": "Will Charles Leclerc set the fastest valid qualifying lap time in the Qualifying session (Q3) for the 2026 Monaco Grand Prix?",
+  "resolutionDate": "2026-06-20T15:00:00.000Z",
+  "publishedAt": "2026-06-06T02:12:47.932Z",
+  "call": {
+    "aiCall": "YES",
+    "aiConfidence": 72,
+    "aiReasoning": "Ferrari’s strong showing in FP1, Leclerc’s home-track advantage, and his proven qualifying excellence all point toward him setting the fastest valid lap in Q3 at Monaco. While Mercedes remains a threat, the evidence leans toward Leclerc prevailing."
+  }
+}
