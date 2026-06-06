@@ -1,0 +1,12 @@
+{
+  "skrollId": "019e9a9a-3731-702f-ba7d-0f75853174bc",
+  "kalshiTicker": "KXWNBASPREAD-26JUN05CONNCHI-CHI7",
+  "kalshiQuestion": "Chicago wins by over 6.5 points?",
+  "resolutionDate": "2026-06-05T00:00:00.000Z",
+  "publishedAt": "2026-06-06T01:44:18.477Z",
+  "call": {
+    "aiCall": "NO",
+    "aiConfidence": 95,
+    "aiReasoning": "There is no evidence that the Chicago Bulls—or any Chicago team—played a game on or around June 5, 2026. Without a game, Chicago could not have won by over 6.5 points. The event did not occur, so the correct resolution is NO."
+  }
+}
